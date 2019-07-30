@@ -5,7 +5,7 @@
 <!-- default file list end -->
 # How to organize Wizard interface within ASPxPageControl and ASPxMenu
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e3052)**
+**[[Run Online]](https://codecentral.devexpress.com/e3052/)**
 <!-- run online end -->
 
 
